@@ -6,3 +6,4 @@
 3. 基本的rest接口返回样例
 4. 依赖adzuki-core
 5. 管理端界面样例查看adzuki-auth-admin
+6. 代码生成工具见adzuki-admin-generator
